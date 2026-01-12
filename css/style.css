@@ -383,7 +383,6 @@ body {
     z-index: 1000;
     background: rgba(39, 174, 96, 0.95);
     backdrop-filter: blur(8px);
-
     display: flex;
     align-items: center;
     padding: 0 20px;
